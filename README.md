@@ -1,6 +1,6 @@
 # 🕒 Web Digital Clock
 
-Check the clock here: https://webdigitalclock.netlify.app/
+Check the clock here: https://karen-poon.github.io/digital-clock/
 
 I created a simple web digital clock using <b>p5.js</b>.
 
